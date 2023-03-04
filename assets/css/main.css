@@ -2337,6 +2337,7 @@ input, select, textarea {
 
 		ul.actions.fit {
 			width: calc(100% + 1em);
+			text-align: center;
 		}
 
 			ul.actions.fit li {
