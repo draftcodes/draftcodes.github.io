@@ -1,0 +1,33 @@
+#color-legend-wrapper #color-legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#color-legend-wrapper .color-button {
+  width: 100px;
+  height: 40px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+#color-legend-wrapper .shade-1-button {
+  background-color: #33A036;
+}
+
+#color-legend-wrapper .shade-2-button {
+  background-color: #147917;
+}
+
+#color-legend-wrapper .shade-3-button {
+  background-color: #023020;
+}
+
+#color-legend-wrapper .shade-4-button {
+  background-color: #B59410;
+}
